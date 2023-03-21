@@ -33,3 +33,8 @@ Packer is a server templating software. It will deploy virtual machines images.
 > In main.tf: The az availability set, platform_fault_domain_count = 2 has default value 5, so we need to specify it to 2.
 Run the following commands to deploy the infrastructure.
 
+## Output
+
+If you succeeded in deploying the resources, it will looks like below
+
+
